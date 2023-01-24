@@ -3,3 +3,4 @@
 "léopard"
 "loutre"
 "licorne"
+"requin"
